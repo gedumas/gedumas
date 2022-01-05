@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+✨I'm entrepreneurial and driven product manager with international experience growing teams and products worldwide.
+
+I enjoy coming up with strategies, aligning team members to a product vision, and hacking product launches. 
+
+- 🔭 I’m currently exploring product ideas in health and education.
+- 🌱 I’m currently learning how to become CPO
+- 👯 I’m looking to collaborate on problem validation
+- 💬 Ask me about Product Management, Product strategy and Product design
+- 📫 How to reach me: [LinkedIn](https://no.linkedin.com/in/gsiuskus)
+
 <!--
 **gedumas/gedumas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
